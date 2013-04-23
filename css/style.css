@@ -1,0 +1,49 @@
+body {
+	display:	block;
+}
+
+
+#content {
+    
+	width: 900px;
+	margin: auto;
+}
+
+
+#topPage {
+        position: 	static;
+        width: 		900px;
+        height: 	150px;
+        border: 	thin solid black; 
+}
+
+#nav {
+        position: 	static;
+	width: 	 	900px;
+	height: 	50px;
+        border: 	thin solid black;
+}
+
+#subNav {
+        position: 	static;
+	float: 		left;
+        width: 		200px;
+	height:		500px;
+        border: 	thin solid black;
+}
+
+#page {
+        position: 	static;
+	float:		right;
+	width:  	696px;
+	height:		500px;
+	border: 	thin solid black;
+}
+
+#footer {
+        position: 	static;
+	clear:		both;
+	width:  	900px;
+        height: 	50px;
+        border: 	thin solid black;
+}
