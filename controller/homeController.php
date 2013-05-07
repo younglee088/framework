@@ -9,16 +9,16 @@ include(APP_VIEW . "/header.php");
 include(APP_VIEW . "/nav.php");
 
 
-switch ( $_GET["q"] ) {
+switch ( $_GET["a"] ) {
 
     case "home":
-        include( APP_VIEW ."/home/subNav.php" );
-        include( APP_VIEW ."/home/home.php" );
+        include( APP_VIEW ."/home/homeSubNav.php" );
+        include( APP_VIEW ."/home/homeView.php" );
         break;
 
     default:
-        include( APP_VIEW ."/home/subNav.php" );
-        include( APP_VIEW ."/home/home.php" );
+        include( APP_VIEW ."/home/homeSubNav.php" );
+        include( APP_VIEW ."/home/homeView.php" );
         break;
 }
 
