@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html"; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
 
     <!--[if lt IE 9]>
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -11,6 +11,6 @@
     <title>My Project</title />
   </head>
   <body>
-	<div id="content"><!-- Main Content Wraper Div -->
-	  <div id="topPage">
-	  </div>
+    <div id="content"><!-- Main Content Wraper Div -->
+      <div id="topPage">
+      </div>

@@ -1,10 +1,5 @@
 <?php
 
-        /*
-        File: homeController.php
-        Last Modified by: Student Name
-        Last modified: 2012.05.08
-        */
 
 
 # Include html header

@@ -1,5 +1,6 @@
-      
-	  <!-- main navigation -->
-	  <div id="nav">
+
+      <!-- main navigation -->
+      <div id="nav">
+
       </div>
-	  <!-- end main navigation -->
+      <!-- end main navigation -->

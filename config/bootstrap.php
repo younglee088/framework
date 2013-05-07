@@ -1,10 +1,5 @@
 <?php
 
-/*
-	File: bootstrap.php
-	Last Modified by: Student Name
-	Last modified: 2013.04.23
-*/
 
 # Setup Applictation Directory Structure
 define("APP_DOC_ROOT", "/framework");

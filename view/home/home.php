@@ -1,7 +1,6 @@
-	  
-	  <!-- page content -->
+
+      <!-- page content -->
       <div id="page">
 
-    	
       </div>
-	  <!-- End page content -->
+      <!-- End page content -->
