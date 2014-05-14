@@ -13,4 +13,15 @@
   <body>
     <div id="content"><!-- Main Content Wraper Div -->
       <div id="topPage">
+        <div id="userArea">
+          <?php
+            if ($_SESSION["userId"]) {
+                $logout = ' ( <a href="index.php?q=auth&a=logout">Logout</a> )';
+                print "Welcome " . $_SESSION["userId"] . $logout;
+            }
+            else {
+                print '<a href="index.php?q=auth&a=login">Login</a>';
+            }
+          ?>
+        </div>
       </div>
