@@ -14,7 +14,7 @@ define("APP_IMG",        APP_DOC_ROOT . "/img");
 
 
 # Set Debug (None: 0, Errors Only: 1, Warnings: 2, Info: 3, Verbose: 4)
-define("DEBUG", 0);
+define("DEBUG", 1);
 
 # Set PHP Error Output
 ini_set('error_reporting','E_ALL');
@@ -35,3 +35,6 @@ mysql_select_db("storefront", $dbh)
 	or die("Could not open database" . mysql_error() );
 
 */
+
+# Load PHP Models
+include( APP_MODEL . "/authLibrary.php" );
