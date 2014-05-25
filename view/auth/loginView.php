@@ -3,6 +3,7 @@
       <div id="pageFullWidth">
         <form id="loginForm" method="post" action="index.php?q=auth&a=processAuth">
           <div class="login">
+            <div class="error"><?php print $formError; ?></div>
             <label>Username:</label>
             <input type="text" id="userId" name="userId" />
             <label>Password:</label>

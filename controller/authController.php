@@ -4,6 +4,7 @@ switch ( $_GET["a"] ) {
 
     case "login":
         // Draw login form
+        $formError = "Invalid Username/Password";
         include(APP_VIEW . "/header.php");
         include(APP_VIEW . "/auth/loginView.php");
         include(APP_VIEW . "/footer.php");
@@ -23,6 +24,7 @@ switch ( $_GET["a"] ) {
         }
         else {
             // Draw login form
+            $formError = "Invalid Username/Password";
             include(APP_VIEW . "/header.php");
             include(APP_VIEW . "/auth/loginView.php");
             include(APP_VIEW . "/footer.php");
