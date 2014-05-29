@@ -15,6 +15,7 @@ body {
     width:      900px;
     height:     150px;
     border:     thin solid black;
+    background: #CCCCCC;
 }
 
 #nav {
@@ -23,6 +24,7 @@ body {
     height:     50px;
     border:     thin solid black;
     padding:    5px;
+    background: #F0F0F0;
 }
 
 div#nav a {
@@ -36,6 +38,7 @@ div#nav a {
     width:      200px;
     height:     500px;
     border:     thin solid black;
+    background: #CCFFCC;
 }
 
 #page {
@@ -44,6 +47,7 @@ div#nav a {
     width:      696px;
     height:     500px;
     border:     thin solid black;
+    background: #CCFFFF;
 }
 
 #pageFullWidth {
@@ -51,6 +55,7 @@ div#nav a {
     width:      900px;
     height:     500px;
     border:     thin solid black;
+    background: #F0F0F0;
 }
 
 #footer {
@@ -59,6 +64,7 @@ div#nav a {
     width:      900px;
     height:     50px;
     border:     thin solid black;
+    background: #CCCCCC;
 }
 
 br.clear {
