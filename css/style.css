@@ -41,6 +41,10 @@ div#nav a {
     background: #CCFFCC;
 }
 
+#subNav a:hover {
+  color: red;
+}
+
 #page {
     position:   static;
     float:      right;
