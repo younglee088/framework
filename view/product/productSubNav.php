@@ -1,7 +1,7 @@
 <!-- sub navigation -->
 
       <div id="subNav">
-
+          <h3>Categories:</h3>
         <?php
 
           foreach ( $categories as $key => $cat ) {

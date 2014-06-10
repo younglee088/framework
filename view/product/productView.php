@@ -1,7 +1,7 @@
 
 <!-- page content -->
       <div id="page">
-
+          <h3>Product Details and Descriptions:</h3>
         <?php
           foreach ( $products as $key => $product) {
 
