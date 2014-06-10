@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/htdocs/frame/frame1/view/contact.php",
+		"/F/xampp/htdocs/framework/config/bootstrap.php.dist",
+		"/F/xampp/htdocs/framework/view/product/productView.php",
+		"/F/xampp/htdocs/framework/view/header.php",
+		"/F/xampp/htdocs/framework/css/style.css",
+		"/F/xampp/htdocs/framework/view/nav.php",
+		"/F/xampp/htdocs/framework/controller/authController.php",
+		"/F/xampp/htdocs/framework/model/authLibrary.php",
+		"/F/xampp/htdocs/framework/view/product/productSubNav.php",
+		"/F/xampp/htdocs/framework/controller/productController.php",
+		"/F/xampp/htdocs/framework/config/bootstrap.php",
+		"/F/xampp/htdocs/framework/view/auth/loginView.php",
+		"/F/xampp/htdocs/framework/controller/homeController.php",
+		"/F/PortableApps/Sublime_Text_Build_3059/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/xampp/htdocs/week5/forms/processform.php",
+		"/F/xampp/htdocs/week5/forms/webform.php",
+		"/F/xampp/htdocs/week5/index.php",
+		"/F/xampp/htdocs/week5/webform.php",
+		"/F/xampp/htdocs/week5/processform.php",
+		"/F/xampp/htdocs/week5/style.css",
+		"/F/xampp/htdocs/week4/dev/test8.php",
+		"/F/xampp/htdocs/week4/dev/test8.html",
+		"/F/xampp/htdocs/week4/dev/index.php",
+		"/F/xampp/htdocs/week4s/test8-1.php",
+		"/F/xampp/htdocs/week4s/indesk.html",
+		"/F/xampp/htdocs/week4s/indesk.php",
+		"/F/xampp/htdocs/week4s/indesk1.php",
+		"/F/xampp/htdocs/week4/js/ajax.js",
+		"/F/xampp/htdocs/week4/test8-1.php",
+		"/F/xampp/htdocs/week4/indesk.html",
+		"/F/xampp/htdocs/week4/index.php",
+		"/F/xampp/htdocs/week4/php/ajax.php",
+		"/F/xampp/htdocs/week4/index.html",
+		"/F/xampp/htdocs/week4s/index.html",
+		"/F/xampp/htdocs/week3/buttons.html",
+		"/F/xampp/htdocs/week3/validate.html",
+		"/F/xampp/htdocs/week3/function.html",
+		"/F/xampp/htdocs/week3/Register.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

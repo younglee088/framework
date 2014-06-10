@@ -71,6 +71,12 @@ div#nav a {
     background: #CCCCCC;
 }
 
+div#checkout {
+    float:      right;
+    margin:     5px 5px 0 0;
+    font-weight:       bold;
+}
+
 br.clear {
     clear:      both;
 }
@@ -110,4 +116,10 @@ div#userArea {
 
 .error {
     color:       red;
+}
+
+label {
+    display: block;
+    float: left;
+    width: 200px;
 }

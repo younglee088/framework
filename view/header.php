@@ -8,11 +8,12 @@
     <![endif]-->
 
     <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
-    <title>My Project</title />
+    <title>CIS295CMS Project</title />
   </head>
   <body>
     <div id="content"><!-- Main Content Wraper Div -->
       <div id="topPage">
+           <h1>Gresham Food Center</h1>
         <div id="userArea">
           <?php
             if ($_SESSION["userId"]) {
